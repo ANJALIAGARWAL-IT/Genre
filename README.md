@@ -13,9 +13,9 @@ To predict the Genre of a movie.
 
 
 ## Demo
-[link](https://genre-movies.herokuapp.com/) 
+[link](https://genre-movie.herokuapp.com/) 
 
-![](https://imgur.com/oWzYRZU.png)
+![](https://imgur.com/7YJrxWQ.png)
 
 
 ## Overview
